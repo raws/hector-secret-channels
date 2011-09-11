@@ -1,4 +1,4 @@
-hector-secret-channels is a [Hector](http://github.com/sstephenson/hector) extension which hides channels from people not in them. Anyone who uses the `WHOIS` command will see only channels shared with the queried user.
+hector-secret-channels is a [Hector](http://github.com/sstephenson/hector) extension which hides channels from people not in them. Anyone who uses the `WHOIS` command will only see channels they share with the queried user.
 
 ### Installation and usage
 
