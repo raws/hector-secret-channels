@@ -10,5 +10,5 @@ spec = Gem::Specification.new do |s|
   s.files = Dir["lib/**/*.rb"]
   s.require_path = "lib"
   
-  s.add_dependency "hector", "1.0.4"
+  s.add_dependency "hector", ">= 1.0.4"
 end
